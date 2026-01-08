@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiteshkarvil" alt="hiteshkarvil" /></a> </p>
 
-- 🔭 I’m currently working as **Machine Learning Intern**
+- 🔭 worked as a machine learning and data analyst intern**
 
 - 📫 How to reach me **karvilhitesh@gmail.com**
 
